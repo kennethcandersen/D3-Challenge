@@ -132,7 +132,7 @@ function updateToolTip(chosenXAxis, chosenYAxis, statesGroup) {
     yLabel = "Smokes %:";
   }
   else {
-    yLabel = "Obese %:";
+    yLabel = "Obesity %:";
   }
 
   // Insert toolTip into the HTML
