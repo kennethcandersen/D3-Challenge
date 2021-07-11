@@ -21,15 +21,15 @@ Create an interactive graphic that users to dynamically explore the correlation 
 
 **STEPS, TOOLS & LANGUAGES USED**
 
-1. Create the structure in HTML. Some starter code was provided, with some adaptations to help with listeners and formatting.
+1. Create the structure in HTML.
 2. Create and test the JS file that does the following:
-  - Accesses data from a JSON file. 
-  - Creates a dropdown menu with samples automatically inserted as selection options. 
-  - Creates event handlers to trigger functions when the dropdown menu is used.
-  - Filters the JSON data for the selected test subject to visualize. 
-  - Creates 3 plots and one metadata field for the dashboard.
-  - Inserts the plots and metadata field into the HTML to visualize in a browser. 
-  - Allows the user to select a new test subject and update the dashboard. 
+  - Accesses data from a CSV file. 
+  - Uses D3 to set up an SVG graphic. 
+  - Builds the SVG graphic with multiple axes.
+  - Plots data with labels and toot tips.  
+  - Creates event listener functions to display data when the mouse hovers over a data label. 
+  - Execututes an animated transition when a different axis is selected and new data is plotted. 
+ 
 
 
 =======
