@@ -6,7 +6,7 @@
 
 This graphic presents allows a user to visualize a correlation comparison between demographic information with health risks with multiple axes and animated transitions. 
 
-See it live [here](https://kennethcandersen.github.io/D3-Challenge/D3_data_journalism/): https://kennethcandersen.github.io/D3-Challenge/D3_data_journalism/
+See it live [here](https://kennethcandersen.github.io/Interactive-Multiple-Axis-Data-Visualization/): https://kennethcandersen.github.io/Interactive-Multiple-Axis-Data-Visualization//
 
 
 **REPOSITORY NAVIGATION**
