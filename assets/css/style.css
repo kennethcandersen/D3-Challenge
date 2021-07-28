@@ -42,3 +42,8 @@ body {
   border: 0;
   border-radius: 10px;
 }
+
+.tootip:hover {
+  border: 5;
+  border-color : #000;
+}
