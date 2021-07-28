@@ -1,6 +1,6 @@
 # Interactive, Multiple Axis Data Visualization
 
-<a href="https://github.com/kennethcandersen/D3-Challenge/blob/main/D3_data_journalism/assets/images/8-tooltip.gif" target="_blank"><img width="900" alt="Final Graphic Screenshot" src="https://github.com/kennethcandersen/D3-Challenge/blob/main/D3_data_journalism/assets/images/8-tooltip.gif"></a>
+<a href="https://github.com/kennethcandersen/Interactive-Multiple-Axis-Data-Visualization/blob/main/assets/images/8-tooltip.gif" target="_blank"><img width="900" alt="Final Graphic Screenshot" src="https://github.com/kennethcandersen/Interactive-Multiple-Axis-Data-Visualization/blob/main/assets/images/8-tooltip.gif"></a>
 
 **EXECUTIVE SUMMARY**
 
